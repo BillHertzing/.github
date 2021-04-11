@@ -1,4 +1,10 @@
-
+---
+name: Bug Reporting issue
+about: Use this template for reporting a bug.
+title: "[DATE]: [Bug Name]"
+labels: Bug issue, needs triage
+assignees: BillHertzing
+---
 
 **Do you want to request a *feature* or report a *bug*?**
 <!-- Please ask questions on StackOverflow or the BillHertzing Gitter (https://gitter.im/BillHertzing/BillHertzing). Questions will be closed. -->
